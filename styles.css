@@ -32,3 +32,11 @@ input{
     background-color: aqua;
     border: 1px solid black;
 }
+
+.readButton{
+    margin-left: 125px;
+}
+
+.remButton{
+    margin-left: 275px;
+}
